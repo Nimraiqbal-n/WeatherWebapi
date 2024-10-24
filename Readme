@@ -1,7 +1,7 @@
 
 ---
 
-# Weather App
+#Weather App
 
 This is a simple weather application that allows users to search for weather information by city. It retrieves real-time data from the OpenWeatherMap API.
 
