@@ -1,3 +1,6 @@
+
+---
+
 # Weather App
 
 This is a simple weather application that allows users to search for weather information by city. It retrieves real-time data from the OpenWeatherMap API.
@@ -30,6 +33,12 @@ This is a simple weather application that allows users to search for weather inf
 ## Usage
 
 1. Enter a city name in the search bar.
-2. The weather details for the entered city will be displayed.
+2. Click the search button or press Enter.
+3. The weather details for the entered city will be displayed.
 
----
+
+## Screenshots
+"C:\Users\abc\Desktop\task\web-weather\Screenshot 2024-10-23 213151.png"
+### Search Interface
+"C:\Users\abc\Desktop\task\web-weather\search-interface.png"
+
